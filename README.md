@@ -5,7 +5,7 @@ This repository contains description about EatingDetectionIJS dataset and link w
 - The dataset was collected in the wild using a [smartwatch]. 
 - We obtained recordings from 19 subjects (11 males and 8 females). 
 - The dataset is comprised of 3-axis accelerometer and 3-axis gyroscope data. The collection procedure was performed with a sampling frequency of 50 Hz. 
-- The total duration of the collected data is 481 hours and 10 minutes, out of which 21 hours and 42 minutes correspond to eating activities.
+- The total duration of the drinking data is 2 hours and 30 minutes.
 
 # Annotations
 
@@ -17,4 +17,4 @@ This repository contains description about EatingDetectionIJS dataset and link w
 The dataset can be downloaded at the following [link](https://drive.google.com/drive/folders/1ijk0-2LwMgWysGyZUjVjdrC01-6REQfm?usp=sharing).
 
 # Contact
-For any information about the **DrinkingDetectionIJS dataset** feel free to contact us simon.stankoski@ijs.si.
+For any information about the **DrinkingDetectionIJS dataset** feel free to contact us vincent.cergolj@gmail.com or simon.stankoski@ijs.si.
